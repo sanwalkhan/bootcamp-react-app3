@@ -6,6 +6,7 @@ function Dinner(props) {
             <h1>Today We are Serving {props.dishName} </h1>
             <h1> and we serve {props.sweetDish} .</h1>
             <h1>with {props.drink} </h1>
+             <h1>ThankYou</h1>
         </div>
     )
 }
